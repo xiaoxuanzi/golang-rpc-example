@@ -1,4 +1,4 @@
-####  Here is a simple example of Package rpc 
+##  Here is a simple example of Package rpc 
 
 使用Go官方库RPC。
 
